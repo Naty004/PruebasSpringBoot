@@ -12,3 +12,11 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+
+swagger:
+  project:
+    name: Gestion de Usuarios Nataly
+    description: Backend microservicio de prueba
+    version: 1.0
+    contactName: COEXITO
+    contactEmail: email@coexito.com
